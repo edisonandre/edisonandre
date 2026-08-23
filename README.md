@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Mairon Salazar 👋</h1>
+<h1 align="center">¡Hola! Soy Edison Andres Martinez 👋</h1>
 
 <h3 align="center">
   Técnico en Desarrollo de Software · UX/UI Designer · Backend & Mobile Developer
@@ -75,9 +75,9 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maysalazar16&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=edisonandre&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysalazar16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonandre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 
 </div>
 
@@ -85,7 +85,7 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=maysalazar16&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img src="https://streak-stats.demolab.com?user=edisonandre&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 
 </div>
 
@@ -95,7 +95,7 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/edisonandre/edisonandre/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -105,7 +105,7 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maysalazar16/maysalazar16/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph"/>
+<img src="https://raw.githubusercontent.com/edisonandre/edisonandre/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph"/>
 
 </div>
 
@@ -115,7 +115,7 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maysalazar16&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edisonandre&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -125,8 +125,8 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<a href="https://github.com/maysalazar16">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maysalazar16&repo=MIXY&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/edisonandre">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edisonandre&repo=MIXY&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -137,11 +137,11 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mairon-salazar/" target="_blank">
+<a href="https://www.linkedin.com/in/edison-andres-martinez-posso-b8b384386/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/maysalazar16" target="_blank">
+<a href="https://github.com/edisonandre" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
