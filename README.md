@@ -1,8 +1,13 @@
 <h1 align="center">¡Hola! Soy Edison Andres Martinez 👋</h1>
 
 ###
+<h3 align="center">
+  Técnico en Desarrollo de Software · UX/UI Designer · Backend & Mobile Developer
+</h3>
 
-<h2 align="center">Técnico en Desarrollo de Software y especializado en diseño UX/UI</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Backend+%26+Mobile+Developer;T%C3%A9cnico+en+Desarrollo+de+Software;UX%2FUI+Designer;SENA+Software+Apprentice;Construyendo+soluciones+con+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ###
 
