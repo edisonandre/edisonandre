@@ -75,9 +75,13 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=edisonandre&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=edisonandre&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonandre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonandre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+       alt="Top Languages" />
 
 </div>
 
