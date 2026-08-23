@@ -73,17 +73,6 @@ de software y experiencias de usuario modernas.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=edisonandre&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-       alt="GitHub Stats" />
-
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonandre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-       alt="Top Languages" />
-
-</div>
 
 <br>
 
@@ -99,7 +88,9 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/edisonandre/edisonandre/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=edisonandre&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats" />
 
 </div>
 
@@ -109,8 +100,9 @@ de software y experiencias de usuario modernas.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/edisonandre/edisonandre/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph"/>
-
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonandre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+       alt="Top Languages" />
 </div>
 
 ---
